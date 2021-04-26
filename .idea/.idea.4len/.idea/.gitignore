@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.4len.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\Indra Ootsutsuki\Desktop\4len\.idea\.idea.4len\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
